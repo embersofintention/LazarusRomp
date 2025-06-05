@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1749092957|2109493631';
+const CACHE_VERSION = '1749093101|2253606823';
 /** @type {string} */
 const CACHE_PREFIX = 'FollowerFriend-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
